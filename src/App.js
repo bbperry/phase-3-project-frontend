@@ -9,7 +9,7 @@ import Department from "./components/Department/Department";
 import Checkout from "./components/CheckOut/Checkout";
 import Create from "./components/Create/Create";
 import Orders from "./components/CheckOut/Orders";
-import Slideshow from "./components/Slideshow/Slideshow";
+import Slideshow from "./components/Slideshow/Slideshow"
 
 function App() {
   const [cart, setCart] = useState([]);
